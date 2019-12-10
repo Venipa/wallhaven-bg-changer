@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Wallhaven_BG_Changer.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="bg_change_interval" Type="System.UInt32" Scope="Application">
+      <Value Profile="(Default)">60000</Value>
+    </Setting>
+    <Setting Name="selectedTopRange" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">1M</Value>
+    </Setting>
+    <Setting Name="selectedSort" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">toplist</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
